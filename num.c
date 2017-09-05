@@ -8,6 +8,7 @@ scanf("%d",&a);
 if(a<0)
 {
 printf("/n tne num is negative");
+}
 elseif(a>0)
 {
 printf("/n the num is positive");
